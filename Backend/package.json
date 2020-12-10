@@ -1,0 +1,13 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
